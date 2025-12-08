@@ -34,6 +34,12 @@ SafeTrip은 이름의 유례에 맞게 관광지, 축제, 리뷰와 같은 일�
 
 ## 4. 주요 기능
 ## 4-1 기능 미리보기
+![메인 화면](./screenshots/main.png)
+![관광지 상세](./screenshots/place-detail.png)
+![리뷰 작성](./screenshots/review-add.png)
+![리뷰 목록](./screenshots/review-user.png)
+![안전 지도](./screenshots/safety-map.png)
+
 
 ## 관광지/축제 정보
 - 관광지 및 축제 정보 CRUD
