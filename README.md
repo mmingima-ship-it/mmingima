@@ -41,6 +41,11 @@ SafeTrip은 이름의 유례에 맞게 관광지, 축제, 리뷰와 같은 일�
 ![리뷰 작성](./screenshots/review-add.png)
 ![리뷰 목록](./screenshots/review-user.png)
 ![안전 지도](./screenshots/safety-map.png)
+![통합 검색](./screenshots/screen-result.png)
+
+- 키워드 기반 관광지 + 축제 통합 검색
+- 하나의 입력으로 도메인별 결과를 구분하여 출력
+- SQL 검색 조건 처리 시 NULL 데이터 이슈를 트러블 슈팅을 통해 해결
 
 
 
