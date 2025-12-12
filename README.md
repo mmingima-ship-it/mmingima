@@ -55,6 +55,8 @@ SafeTrip은 이름의 유례에 맞게 관광지, 축제, 리뷰와 같은 일�
 ![리뷰 목록](./screenshots/review-user.png)
 ![안전 지도](./screenshots/safety-map.png)
 ![통합 검색](./screenshots/screnn-result.png)
+![고객 문의](./screenshots/user.png)
+![관리자 답변](./screenshots/admin.png)
 
 - 키워드 기반 관광지 + 축제 통합 검색
 - 하나의 입력으로 도메인별 결과를 구분하여 출력
@@ -150,7 +152,7 @@ viewBox=>
 SVG는 Markdwon에서 HTML로 해석될 수 있으므로 코드 설명 시 text 블록으로 작성을 해야함
 IDE 경고와 실제 실행 오류를 구분하는 디버깅 관점을 학습함
 
-**추후 추가 기능**
+## 6. 추후 추가 기능
 리뷰 평점 별로 모아보기
 1. 커뮤니티 기능 확장(실시간 채팅 / Q&A )
 실시간으로 “ 여기가 안전합니다 “ / “여기를 추천합니다” 라는 채팅이 있으면
